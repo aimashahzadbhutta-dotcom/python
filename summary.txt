@@ -1,0 +1,14 @@
+Oldest students:   Name  Age Grade    Subject
+0   Ali   19     B    Biology
+4  Noor   19     C  Geography
+Youngest students:    Name  Age Grade  Subject
+1   Aqsa   17     B  History
+2  Beens   17     A  Biology
+Average students:    Name  Age Grade  Subject
+3  Saiqa   18     F  Physics
+Count of students with same grades:
+Grade
+A    1
+B    2
+C    1
+F    1

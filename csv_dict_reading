@@ -1,0 +1,8 @@
+import csv
+
+with open('Data.csv', 'r') as f:
+    csv_reader = csv.DictReader(f, delimiter=',', quotechar="'")
+    fields = next(csv_reader)
+    print(fields)
+    for lines in csv_reader:
+        print(lines)
