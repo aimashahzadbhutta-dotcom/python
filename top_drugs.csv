@@ -1,0 +1,6 @@
+,name,molecular_weight,solubility,toxicity,activity
+0,Aspirin,180,0.8,0.1,0.75
+1,Ibuprofen,206,0.6,0.2,0.7
+2,Metformin,129,0.9,0.05,0.85
+3,Penicillin,334,0.7,0.1,0.9
+4,Imatinib,493,0.4,0.3,0.95

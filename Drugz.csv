@@ -1,0 +1,6 @@
+name,type,dose,activity
+Aspirin,NSAID,500,0.8
+Ibuprofen,NSAID,400,0.7
+Metformin,Antidiabetic,1000,0.9
+Penicillin,Antibiotic,250,0.6
+Imatinib,Anticancer,400,0.95

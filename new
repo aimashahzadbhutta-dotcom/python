@@ -1,0 +1,11 @@
+           name  molecular_weight  solubility  toxicity  activity
+0       Aspirin               180         0.8      0.10      0.75
+1     Ibuprofen               206         0.6      0.20      0.70
+2     Metformin               129         0.9      0.05      0.85
+3    Penicillin               334         0.7      0.10      0.90
+4      Imatinib               493         0.4      0.30      0.95
+5      Warfarin               308         0.5      0.40      0.65
+6   Oseltamivir               312         0.8      0.10      0.80
+7    Remdesivir               602         0.3      0.25      0.88
+8  Methotrexate               454         0.6      0.50      0.72
+9   Chloroquine               320         0.7      0.35      0.60
